@@ -1,1 +1,1 @@
-
+This is a basic data pre-processing for a Kaggle competition "[Google Analytics Customer Revenue Prediction](https://www.kaggle.com/c/ga-customer-revenue-prediction)", just to show some ideas for data preparation. The dataset can be found in the competition room. 
